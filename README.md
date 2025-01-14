@@ -53,17 +53,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/adham025/adham025/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<p align="left"></p>
-
-###
